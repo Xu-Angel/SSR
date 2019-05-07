@@ -1,9 +1,0 @@
-{
-  "presets": [
-    ["es2015",{"loose":true}],
-    "react"
-  ],
-
-  "plugins":["react-hot-loader/babel"]
-}
-//开启热刷新
