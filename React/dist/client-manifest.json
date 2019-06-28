@@ -1,0 +1,495 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.22.0",
+  "hash": "daf3e759c0fdaaae9122",
+  "publicPath": "/dist/",
+  "outputPath": "C:\\GitLab\\common-platform\\front-end\\user\\dist",
+  "assetsByChunkName": {
+    "app": [
+      "static/css/app.159b480ece53e992dbd1.css",
+      "static/js/app.d76bf7b5d1323099483b.js",
+      "static/js/app.d76bf7b5d1323099483b.js.map"
+    ],
+    "manifest": [
+      "static/js/manifest.7a031a8f8c3d2aaa4c76.js",
+      "static/js/manifest.7a031a8f8c3d2aaa4c76.js.map"
+    ],
+    "vendor~app": [
+      "static/js/vendor~app.9dc5e3bd8b2aa1ae84b3.js",
+      "static/js/vendor~app.9dc5e3bd8b2aa1ae84b3.js.map"
+    ],
+    "views-Bar": [
+      "static/js/views-Bar.52ae26942a7d6d6e99c8.js",
+      "static/js/views-Bar.52ae26942a7d6d6e99c8.js.map"
+    ],
+    "views-Baz": [
+      "static/js/views-Baz.cacb7b07e368b4c0d540.js",
+      "static/js/views-Baz.cacb7b07e368b4c0d540.js.map"
+    ],
+    "views-Foo": [
+      "static/js/views-Foo.80f9570125e73bafd1e9.js",
+      "static/js/views-Foo.80f9570125e73bafd1e9.js.map"
+    ],
+    "views-Home/Home": [
+      "static/css/views-Home/Home.19d66c21f378568cc5a4.css",
+      "static/js/views-Home/Home.a2a4d11abef81841316b.js",
+      "static/js/views-Home/Home.a2a4d11abef81841316b.js.map"
+    ],
+    "views-TopDetail/TopDetail": [
+      "static/js/views-TopDetail/TopDetail.ac85f61e3a046a536694.js",
+      "static/js/views-TopDetail/TopDetail.ac85f61e3a046a536694.js.map"
+    ],
+    "views-TopList/TopList": [
+      "static/css/views-TopList/TopList.4874b41766095f1f8397.css",
+      "static/js/views-TopList/TopList.c71c54f43bd5c4e3f54a.js",
+      "static/js/views-TopList/TopList.c71c54f43bd5c4e3f54a.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "name": "static/css/app.159b480ece53e992dbd1.css",
+      "size": 66,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "app"
+      ]
+    },
+    {
+      "name": "static/css/app.159b480ece53e992dbd1.css.map",
+      "size": 512,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "static/css/views-Home/Home.19d66c21f378568cc5a4.css",
+      "size": 82,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [
+        "views-Home/Home"
+      ]
+    },
+    {
+      "name": "static/css/views-Home/Home.19d66c21f378568cc5a4.css.map",
+      "size": 520,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "static/css/views-TopList/TopList.4874b41766095f1f8397.css",
+      "size": 80,
+      "chunks": [
+        8
+      ],
+      "chunkNames": [
+        "views-TopList/TopList"
+      ]
+    },
+    {
+      "name": "static/css/views-TopList/TopList.4874b41766095f1f8397.css.map",
+      "size": 606,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "static/js/app.d76bf7b5d1323099483b.js",
+      "size": 6767,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "app"
+      ]
+    },
+    {
+      "name": "static/js/app.d76bf7b5d1323099483b.js.map",
+      "size": 20714,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "app"
+      ]
+    },
+    {
+      "name": "static/js/manifest.7a031a8f8c3d2aaa4c76.js",
+      "size": 3622,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "manifest"
+      ]
+    },
+    {
+      "name": "static/js/manifest.7a031a8f8c3d2aaa4c76.js.map",
+      "size": 16016,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "manifest"
+      ]
+    },
+    {
+      "name": "static/js/vendor~app.9dc5e3bd8b2aa1ae84b3.js",
+      "size": 205893,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "vendor~app"
+      ]
+    },
+    {
+      "name": "static/js/vendor~app.9dc5e3bd8b2aa1ae84b3.js.map",
+      "size": 681729,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "vendor~app"
+      ]
+    },
+    {
+      "name": "static/js/views-Bar.52ae26942a7d6d6e99c8.js",
+      "size": 820,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "views-Bar"
+      ]
+    },
+    {
+      "name": "static/js/views-Bar.52ae26942a7d6d6e99c8.js.map",
+      "size": 2428,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "views-Bar"
+      ]
+    },
+    {
+      "name": "static/js/views-Baz.cacb7b07e368b4c0d540.js",
+      "size": 820,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "views-Baz"
+      ]
+    },
+    {
+      "name": "static/js/views-Baz.cacb7b07e368b4c0d540.js.map",
+      "size": 2428,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "views-Baz"
+      ]
+    },
+    {
+      "name": "static/js/views-Foo.80f9570125e73bafd1e9.js",
+      "size": 820,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [
+        "views-Foo"
+      ]
+    },
+    {
+      "name": "static/js/views-Foo.80f9570125e73bafd1e9.js.map",
+      "size": 2428,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [
+        "views-Foo"
+      ]
+    },
+    {
+      "name": "static/js/views-Home/Home.a2a4d11abef81841316b.js",
+      "size": 873,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [
+        "views-Home/Home"
+      ]
+    },
+    {
+      "name": "static/js/views-Home/Home.a2a4d11abef81841316b.js.map",
+      "size": 2604,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [
+        "views-Home/Home"
+      ]
+    },
+    {
+      "name": "static/js/views-TopDetail/TopDetail.ac85f61e3a046a536694.js",
+      "size": 1322,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "views-TopDetail/TopDetail"
+      ]
+    },
+    {
+      "name": "static/js/views-TopDetail/TopDetail.ac85f61e3a046a536694.js.map",
+      "size": 4313,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "views-TopDetail/TopDetail"
+      ]
+    },
+    {
+      "name": "static/js/views-TopList/TopList.c71c54f43bd5c4e3f54a.js",
+      "size": 2178,
+      "chunks": [
+        8
+      ],
+      "chunkNames": [
+        "views-TopList/TopList"
+      ]
+    },
+    {
+      "name": "static/js/views-TopList/TopList.c71c54f43bd5c4e3f54a.js.map",
+      "size": 7031,
+      "chunks": [
+        8
+      ],
+      "chunkNames": [
+        "views-TopList/TopList"
+      ]
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "app": {
+      "chunks": [
+        1,
+        2,
+        0
+      ],
+      "assets": [
+        "static/js/manifest.7a031a8f8c3d2aaa4c76.js",
+        "static/js/manifest.7a031a8f8c3d2aaa4c76.js.map",
+        "static/js/vendor~app.9dc5e3bd8b2aa1ae84b3.js",
+        "static/js/vendor~app.9dc5e3bd8b2aa1ae84b3.js.map",
+        "static/css/app.159b480ece53e992dbd1.css",
+        "static/js/app.d76bf7b5d1323099483b.js",
+        "static/js/app.d76bf7b5d1323099483b.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "app": {
+      "chunks": [
+        1,
+        2,
+        0
+      ],
+      "assets": [
+        "static/js/manifest.7a031a8f8c3d2aaa4c76.js",
+        "static/js/manifest.7a031a8f8c3d2aaa4c76.js.map",
+        "static/js/vendor~app.9dc5e3bd8b2aa1ae84b3.js",
+        "static/js/vendor~app.9dc5e3bd8b2aa1ae84b3.js.map",
+        "static/css/app.159b480ece53e992dbd1.css",
+        "static/js/app.d76bf7b5d1323099483b.js",
+        "static/js/app.d76bf7b5d1323099483b.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "views-Home/Home": {
+      "chunks": [
+        6
+      ],
+      "assets": [
+        "static/css/views-Home/Home.19d66c21f378568cc5a4.css",
+        "static/js/views-Home/Home.a2a4d11abef81841316b.js",
+        "static/js/views-Home/Home.a2a4d11abef81841316b.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "views-Bar": {
+      "chunks": [
+        3
+      ],
+      "assets": [
+        "static/js/views-Bar.52ae26942a7d6d6e99c8.js",
+        "static/js/views-Bar.52ae26942a7d6d6e99c8.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "views-Baz": {
+      "chunks": [
+        4
+      ],
+      "assets": [
+        "static/js/views-Baz.cacb7b07e368b4c0d540.js",
+        "static/js/views-Baz.cacb7b07e368b4c0d540.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "views-Foo": {
+      "chunks": [
+        5
+      ],
+      "assets": [
+        "static/js/views-Foo.80f9570125e73bafd1e9.js",
+        "static/js/views-Foo.80f9570125e73bafd1e9.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "views-TopList/TopList": {
+      "chunks": [
+        8
+      ],
+      "assets": [
+        "static/css/views-TopList/TopList.4874b41766095f1f8397.css",
+        "static/js/views-TopList/TopList.c71c54f43bd5c4e3f54a.js",
+        "static/js/views-TopList/TopList.c71c54f43bd5c4e3f54a.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "views-TopDetail/TopDetail": {
+      "chunks": [
+        7
+      ],
+      "assets": [
+        "static/js/views-TopDetail/TopDetail.ac85f61e3a046a536694.js",
+        "static/js/views-TopDetail/TopDetail.ac85f61e3a046a536694.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "children": [
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/dist/",
+      "outputPath": "C:\\GitLab\\common-platform\\front-end\\user\\dist",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/index.js??ref--13-oneOf-1-1!node_modules/postcss-loader/src/index.js??postcss!node_modules/stylus-loader/index.js??ref--13-oneOf-1-3!src/views/Home/home.styl"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/dist/",
+      "outputPath": "C:\\GitLab\\common-platform\\front-end\\user\\dist",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/index.js??ref--7-oneOf-1-1!node_modules/postcss-loader/src/index.js??postcss!src/common/style/app.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/dist/",
+      "outputPath": "C:\\GitLab\\common-platform\\front-end\\user\\dist",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/index.js??ref--7-oneOf-1-1!node_modules/postcss-loader/src/index.js??postcss!src/views/TopList/top-list.css"
+    }
+  ]
+}

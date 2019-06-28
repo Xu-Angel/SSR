@@ -1,0 +1,86 @@
+@import '../../common/style/_var.styl';
+
+.header{
+    color: $theme-color;
+    display: flex;
+    width: $main-width;
+    margin: 0 auto;
+    padding: 20px 0;
+    color: $theme-color;
+    justify-content: space-between;
+    .logo-box{
+        display: flex;
+        align-items: center;
+        padding-top: 20px;
+        .logo{
+            display: block;
+            width: 48px;
+            height: 48px;
+            background: url(../../common/img/layout/logo.jpg) no-repeat;
+        }
+        .text{
+            margin-left: 10px;
+            .ch{
+                font-size: 28px;
+                font-weight: bold;
+                color: $theme-color;
+            }
+            .en{
+                font-size: 15px;
+                color: $tips-color;
+            }
+        }
+    }
+    .search-wrap{
+        .search-type{
+            height: 30px;
+            line-height: 30px;
+            ul{
+                overflow: hidden;
+                li{
+                    float: left;
+                    a{
+                        display: block;
+                        width: 70px;
+                        height: 30px;
+                        text-align: center;
+                        color: $theme-color;
+                        &.active{
+                            color: #fff;
+                            background-color: $theme-color;
+                        }
+                    }
+                }
+            }
+        }
+        .search-input{
+            height: 40px;
+            padding: 2px 5px;
+            margin-top: 5px;
+            display: flex;
+            align-items: center;
+            border: solid 1px #eee;
+            border-radius: 20px;
+            .icon{
+                width: 21px;
+                height: 21px;
+                background: url(../../common/img/layout/search.png) no-repeat;
+            }
+            .input{
+                height: 100%;
+                width: 340px;
+                padding-left: 10px;
+                border: none;
+            }
+            .btn{
+                width: 86px;
+                height: 100%;
+                line-height: 40px;
+                text-align: center;
+                background-color: $theme-color;
+                color: #fff;
+                border-radius: 20px;
+            }
+        }
+    }
+}
